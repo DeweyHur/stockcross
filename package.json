@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "console-table-printer": "^2.9.0",
+    "csv-parse": "^4.15.4",
+    "fetch": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "node-wget-promise": "^0.1.6",
+    "stream": "^0.0.2"
+  }
+}
